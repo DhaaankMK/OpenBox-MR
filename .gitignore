@@ -1,0 +1,16 @@
+# ambiente virtual (criado automaticamente pelo OpenBox.py na 1ª execução)
+.venv/
+OpenBox_Data/.venv/
+# Python
+__pycache__/
+*.pyc
+# dados locais do jogador
+Configurações.json
+Capturas/
+*.log
+*.tmp
+# sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
